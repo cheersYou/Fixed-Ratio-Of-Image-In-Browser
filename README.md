@@ -3,4 +3,4 @@
 
 # 示例
 
-![示例图片](./assets/sample.png)
+![示例图片](assets/sample.png)
